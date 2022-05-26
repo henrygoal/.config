@@ -1,0 +1,96 @@
+
+#!/usr/bin/python3
+
+import time
+import json
+import sys
+
+
+def get_data():
+  iface = None
+  print(111)
+  with open('/proc/net/route') as f:
+    next(f) # skip header
+    for line in f:
+      dev, route, *_ = line.split()
+      if route == '00000000':
+        iface = dev
+        break
+
+  if not iface:
+    return
+
+  iface += ':'
+  with open('/proc/net/dev') as f:
+    next(f)
+    next(f)
+    for line in f:
+      data = line.split()
+      dev, recv, *_ = data
+      send = data[9]
+      if dev == iface:
+        return int(recv), int(send)
+
+COLORS = {
+  '': '#d3e4ed',
+  'K': '#e8d064',
+  'M': '#57d977',
+}
+
+def format_size(s):
+    u = None
+    f = s
+    if s > 999999:
+        u = 'M'
+        f = s/1000/1000
+    elif s > 999:
+        u = 'K'
+        f = s/1000
+    else:
+        pass
+    if u:
+        t = f'{f:4.2f}{u}'
+    else:
+      t = f'{f}'
+    c = COLORS.get(u, '#d3e4ed')
+    return f'<span color="{c}">{t:>7}</span>'
+
+def gen_text():
+  last_recv = last_send = None
+
+  while True:
+    data = get_data()
+    time.sleep(1)
+    if not data:
+      last_recv = last_send = None
+      yield '<span color="#992525">(No network)</span>'
+      continue
+
+    recv, send = data
+
+    if last_recv is not None:
+      down = format_size(recv - last_recv)
+      up = format_size(send - last_send)
+      d = f'{down} '.rjust(8, " ")
+      u = f'{up} '.rjust(8, " ")
+      #yield f'{down:>6}  {up:>6} '
+      yield d + u
+    else:
+      yield '(init)'
+
+    last_recv = recv
+    last_send = send
+
+def main():
+  output = {"text": "", "tooltip": "", "class": "", "percentage": 0 }
+  gen = gen_text()
+  while True:
+        output['text'] = next(gen)
+        try:
+            json.dump(output, sys.stdout, ensure_ascii=False)
+            print(flush=True)
+        except:
+            pass
+
+if __name__ == '__main__':
+  main()
