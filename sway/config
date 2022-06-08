@@ -230,7 +230,7 @@ gaps inner 5
 #gaps outer 5
 default_border pixel 3
 exec_always fcitx5 -d --replace
-exec_always setwall random ~/BingWallpaper -c sway
+exec_always setwall random ~/BingWallpaper -c sway  -o eDP-1  -o  HDMI-A-1
 bar {
     swaybar_command waybar
 }
@@ -278,6 +278,9 @@ exec_always {
 }
 
 exec nm-applet --indicator
+
+#notification
+exec_always mako
 
 #font pango:Font Awesome 6 Free 14px
 
