@@ -7,6 +7,7 @@
 ### Variables
 #
 # Logo key. Use Mod1 for Alt.
+output '*' bg $(find  ~/BingWallpaper/ | shuf -n 1) fill
 set $mod Mod4
 
 # Home row direction keys, like vim
@@ -230,7 +231,6 @@ gaps inner 5
 #gaps outer 5
 default_border pixel 3
 exec_always fcitx5 -d --replace
-exec_always setwall random ~/BingWallpaper -c sway  -o eDP-1  -o  HDMI-A-1
 bar {
     swaybar_command waybar
 }
