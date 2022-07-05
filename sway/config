@@ -236,7 +236,7 @@ bar {
 }
 
 bindsym ctrl+alt+p exec grim -s 1 -g "$(slurp)" - | wl-copy
-bindsym ctrl+alt+o exec grim -g "$(slurp)" $(xdg-user-dir PICTURES)/$(date +'%s_grim.png')
+bindsym ctrl+alt+o exec grim -s 1 -g "$(slurp)" $(xdg-user-dir PICTURES)/$(date +'%s_grim.png')
 bindsym --locked XF86MonBrightnessDown exec brightnessctl set 5%-
 bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
 bindsym XF86AudioRaiseVolume exec pactl set-sink-volume @DEFAULT_SINK@ +5%
