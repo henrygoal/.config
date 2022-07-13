@@ -46,6 +46,7 @@ electron-flags.conf
 electron-netease-cloud-music/
 electron11-flags.conf
 electron17-flags.conf
+electron18-flags.conf
 electron8-bin-flags.conf
 electron8-flags.conf
 emaildefaults
@@ -157,7 +158,7 @@ libreoffice/
 libvirt/
 lutris/
 lvim.old/
-lvim/
+ktechpit/
 menus/
 mimeapps.list
 monitors.xml
