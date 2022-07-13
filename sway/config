@@ -7,7 +7,7 @@
 ### Variables
 #
 # Logo key. Use Mod1 for Alt.
-output '*' bg $(find  ~/BingWallpaper/ | shuf -n 1) fill
+output '*' bg $(find /home/luyh/.local/share/ktechpit/WonderWall/download/ | shuf -n 1) fill
 set $mod Mod4
 
 # Home row direction keys, like vim
@@ -30,12 +30,11 @@ set $menu wofi --show=drun --lines=5 --prompt=""
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
 #output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
 # output * bg /home/colin/Pictures/backgrounds/sculp-yourself.jpg fill
-
 #
 # Example configuration:
 #
 #   output HDMI-A-1 resolution 1920x1080 position 1920,0
-#
+#/
 # You can get the names of your outputs by running: swaymsg -t get_outputs
 output eDP-1 mode 1920x1080@240Hz position 0,0 scale 1
 output HDMI-A-1 mode 2560x1440@144Hz position 1920,0
@@ -281,6 +280,18 @@ exec nm-applet --indicator
 
 #notification
 exec_always mako
+
+input "2:7:SynPS/2_Synaptics_TouchPad" {
+       dwt disabled
+       tap disabled
+       natural_scroll disabled
+       middle_emulation disabled
+       events disabled
+}
+
+
+#input 2:7:SynPS/2_Synaptics_TouchPad  events disable
+
 
 #font pango:Font Awesome 6 Free 14px
 
