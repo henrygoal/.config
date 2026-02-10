@@ -1,0 +1,23 @@
+fork = false
+frame = "full"
+idle = true
+maximized = false
+neovim-bin = "/usr/bin/nvim" # in reality found dynamically on $PATH if unset
+no-multigrid = false
+srgb = false
+tabs = true
+theme = "auto"
+title-hidden = true
+vsync = true
+wsl = false
+
+[font]
+normal = ["Noto Sans Mono CJK JP"] # Will use the bundled Fira Code Nerd Font by default
+bold = ["WenQuanYi Zen Hei Mono"]
+size = 12.0
+hinting = "slight"
+edging = "subpixelantialias"
+
+[font.features]
+"Noto Sans Mono CJK JP" = [ "+ss01", "+ss07", "+ss11", "-calt", "+ss09", "+ss02", "+ss14" ]
+"WenQuanYi Zen Hei Mono" = [ "+ss01", "+ss07", "+ss11", "-calt", "+ss09", "+ss02", "+ss14" ]
