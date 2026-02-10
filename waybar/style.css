@@ -12,11 +12,11 @@
 
 @keyframes blink-warning {
     70% {
-        color: white;
+        color: blue;
     }
 
     to {
-        color: white;
+        color: blue;
         background-color: orange;
     }
 }
@@ -28,7 +28,7 @@
 
     to {
         color: white;
-        background-color: red;
+        background-color: white;
     }
 }
 
@@ -45,6 +45,7 @@
     margin: 0;
     padding: 0;
     opacity:0.9;
+    /*color: black;*/
 }
 
 /* The whole bar */
@@ -188,7 +189,7 @@
 
 #workspaces button.focused {
     border-color: #4c7899;
-    color: white;
+    color: black;
     background-color: #285577;
 }
 

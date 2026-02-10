@@ -18,10 +18,25 @@
     // If height property would be not present, it'd be calculated dynamically
     "height": 30,
 
+    "output":["DP-2"],
+
+
+    "hyprland/window": {
+        "format": "👉 {}",
+    "rewrite": {
+        "(.*) — Mozilla Firefox": "🌎 $1",
+        "(.*) - fish": "> [$1]"
+    },
+    "separate-outputs": true
+},
+
+    
+
     "modules-left": [
         "sway/workspaces",
         "sway/mode",
-        "custom/media"
+        "custom/media",
+        "mpd"
     ],
     "modules-center": [
         "sway/window"
@@ -30,6 +45,7 @@
  //       "custom/netspeed",
   //      "network",
         "pulseaudio",
+        "backlight",
         "memory",
         "cpu",
         "temperature",
@@ -178,6 +194,12 @@
         "on-click": "pavucontrol"
     },
 
+    "backlight": {
+        "device": "acpi_video0",
+        "format": "{percent}% {icon}",
+        "format-icons": ["", "", "", "", "", "", "", "", ""]
+    },
+
     "temperature": {
       "critical-threshold": 80,
       "interval": 5,
@@ -195,6 +217,33 @@
     "tray": {
         "icon-size": 21,
         "spacing": 10
-    }
+    },
+    "mpd": {
+        //"format": "{stateIcon} {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}{artist} - {album} - {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S}) ⸨{songPosition}|{queueLength}⸩ {volume}% ",
+        "format": "{stateIcon}  {artist} - {title}",
+        "format-disconnected": "",
+        "format-stopped": " ",
+        "unknown-tag": "N/A",
+        "password": "mpdmpd",
+        "interval": 2,
+        "consume-icons": {
+            "on": " "
+        },
+        "random-icons": {
+            "off": "<span color=\"#f53c3c\"></span> ",
+            "on": " "
+        },
+        "repeat-icons": {
+            "on": " "
+        },
+        "single-icons": {
+            "on": "1 "
+        },
+        "state-icons": {
+            "paused": "",
+            "playing": ""
+            //
+        },
 
+    }
 }
