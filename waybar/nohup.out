@@ -1,0 +1,2226 @@
+[2023-12-27 15:51:28.419] [info] Using configuration file /home/luyh/.config/hypr/waybar/config
+[2023-12-27 15:51:28.420] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2023-12-27 15:51:28.420] [info] Using CSS file /home/luyh/.config/hypr/waybar/style.css
+[2023-12-27 15:51:28.426] [info] Hyprland IPC starting
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+
+(waybar:214190): GLib-GObject-CRITICAL **: 15:51:28.456: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:214190): GLib-GObject-CRITICAL **: 15:51:28.456: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+00:00:00.016 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+[2023-12-27 15:51:28.693] [info] Bar configured (width: 2560, height: 30) for output: HDMI-A-1
+[2023-12-27 15:51:28.693] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:214190): WARNING **: 15:51:28.698: Status Notifier Item with bus name ':1.5' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:214190): WARNING **: 15:51:28.928: Status Notifier Item with bus name ':1.5' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.016 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.014 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+
+** (waybar:214190): WARNING **: 15:53:04.930: Status Notifier Item with bus name ':1.5' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-12-27 15:53:04.930] [error] Host: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: Status Notifier Host with bus name ':1.566' and object path '/StatusNotifierHost/0' is already registered
+[2023-12-27 15:53:04.930] [error] Host: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: Status Notifier Host with bus name ':1.566' and object path '/StatusNotifierHost/1' is already registered
+
+** (waybar:214190): WARNING **: 15:53:05.427: Status Notifier Item with bus name ':1.5' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.014 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.014 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.013 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.014 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.016 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.013 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.011 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+
+** (waybar:214190): WARNING **: 16:06:49.563: Status Notifier Item with bus name ':1.5' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-12-27 16:06:49.563] [error] Host: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: Status Notifier Host with bus name ':1.566' and object path '/StatusNotifierHost/0' is already registered
+[2023-12-27 16:06:49.564] [error] Host: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: Status Notifier Host with bus name ':1.566' and object path '/StatusNotifierHost/1' is already registered
+
+** (waybar:214190): WARNING **: 16:06:49.914: Status Notifier Item with bus name ':1.5' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.013 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.013 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+00:00:00.012 [ERROR] [swaymsg/main.c:491] Unable to retrieve socket path
+
+** (waybar:214190): WARNING **: 16:08:03.336: Status Notifier Item with bus name ':1.5' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-12-27 16:08:03.337] [error] Host: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: Status Notifier Host with bus name ':1.566' and object path '/StatusNotifierHost/0' is already registered
+[2023-12-27 16:08:03.337] [error] Host: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: Status Notifier Host with bus name ':1.566' and object path '/StatusNotifierHost/1' is already registered
+
+** (waybar:214190): WARNING **: 16:08:03.677: Status Notifier Item with bus name ':1.5' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-04-15 10:17:57.990] [info] Using configuration file /home/luyh/.config/hypr/waybar/config
+[2025-04-15 10:17:57.993] [info] Using CSS file /home/luyh/.config/hypr/waybar/style.css
+[2025-04-15 10:17:57.996] [info] Hyprland IPC starting
+[2025-04-15 10:17:57.997] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-04-15 10:17:58.029] [info] Loading persistent workspaces from Hyprland workspace rules
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.032 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+
+** (waybar:82420): WARNING **: 10:17:58.246: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:82420): WARNING **: 10:17:58.246: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+
+** (waybar:82420): WARNING **: 10:17:58.247: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+[2025-04-15 10:17:58.313] [info] Bar configured (width: 2048, height: 30) for output: eDP-1
+[2025-04-15 10:17:58.314] [info] Bar configured (width: 2560, height: 30) for output: DP-2
+[2025-04-15 10:17:58.325] [info] Bar configured (width: 2560, height: 30) for output: DP-2
+
+** (waybar:82420): WARNING **: 10:17:58.373: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+
+** (waybar:82420): WARNING **: 10:17:58.373: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+
+** (waybar:82420): WARNING **: 10:17:58.373: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.053 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.053 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.024 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.055 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.054 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+[2025-04-15 10:32:49.997] [info] Using configuration file /home/luyh/.config/hypr/waybar/config
+[2025-04-15 10:32:49.999] [info] Using CSS file /home/luyh/.config/hypr/waybar/style.css
+[2025-04-15 10:32:50.002] [info] Hyprland IPC starting
+[2025-04-15 10:32:50.003] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-04-15 10:32:50.032] [info] Loading persistent workspaces from Hyprland workspace rules
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.031 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+
+** (waybar:90309): WARNING **: 10:32:50.254: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+
+** (waybar:90309): WARNING **: 10:32:50.254: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:90309): WARNING **: 10:32:50.254: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+[2025-04-15 10:32:50.322] [info] Bar configured (width: 2048, height: 30) for output: eDP-1
+[2025-04-15 10:32:50.323] [info] Bar configured (width: 2560, height: 30) for output: DP-2
+[2025-04-15 10:32:50.335] [info] Bar configured (width: 2560, height: 30) for output: DP-2
+
+** (waybar:90309): WARNING **: 10:32:50.407: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+
+** (waybar:90309): WARNING **: 10:32:50.407: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:90309): WARNING **: 10:32:50.407: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.038 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.048 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[2025-04-15 10:37:38.852] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-04-15 10:37:38.865] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-04-15 10:37:38.865] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-04-15 10:37:38.866] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-04-15 10:37:47.356] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-04-15 10:37:47.358] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-04-15 10:37:47.358] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-04-15 10:37:47.359] [info] Loading persistent workspaces from Hyprland workspace rules
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[2025-04-15 10:38:21.757] [info] Using configuration file /home/luyh/.config/hypr/waybar/config
+[2025-04-15 10:38:21.759] [info] Using CSS file /home/luyh/.config/hypr/waybar/style.css
+[2025-04-15 10:38:21.762] [info] Hyprland IPC starting
+[2025-04-15 10:38:21.763] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-04-15 10:38:21.792] [info] Loading persistent workspaces from Hyprland workspace rules
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.031 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+
+** (waybar:93999): WARNING **: 10:38:22.013: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:93999): WARNING **: 10:38:22.013: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+
+** (waybar:93999): WARNING **: 10:38:22.013: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+[2025-04-15 10:38:22.070] [info] Bar configured (width: 2048, height: 30) for output: eDP-1
+[2025-04-15 10:38:22.071] [info] Bar configured (width: 2560, height: 30) for output: DP-2
+[2025-04-15 10:38:22.083] [info] Bar configured (width: 2560, height: 30) for output: DP-2
+
+** (waybar:93999): WARNING **: 10:38:22.157: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:93999): WARNING **: 10:38:22.157: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+
+** (waybar:93999): WARNING **: 10:38:22.157: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+
+** (waybar:93999): WARNING **: 10:38:39.647: Status Notifier Item with bus name ':1.90' and object path '/StatusNotifierItem' is already registered
+
+** (waybar:93999): WARNING **: 10:38:39.652: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:93999): WARNING **: 10:38:39.652: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+
+** (waybar:93999): WARNING **: 10:38:39.652: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+
+** (waybar:93999): WARNING **: 10:38:39.652: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+
+** (waybar:93999): WARNING **: 10:38:39.652: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:93999): WARNING **: 10:38:39.652: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+
+** (waybar:93999): WARNING **: 10:38:39.652: Status Notifier Host with bus name ':1.175' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:93999): WARNING **: 10:38:39.652: Status Notifier Host with bus name ':1.175' and object path '/StatusNotifierHost/1' is already registered
+
+** (waybar:93999): WARNING **: 10:38:40.157: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:93999): WARNING **: 10:38:40.157: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+
+** (waybar:93999): WARNING **: 10:38:40.157: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[2025-04-15 10:41:21.928] [info] Using configuration file /home/luyh/.config/hypr/waybar/config
+[2025-04-15 10:41:21.930] [info] Using CSS file /home/luyh/.config/hypr/waybar/style.css
+[2025-04-15 10:41:21.933] [info] Hyprland IPC starting
+[2025-04-15 10:41:21.933] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-04-15 10:41:21.963] [info] Loading persistent workspaces from Hyprland workspace rules
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.030 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+
+** (waybar:95951): WARNING **: 10:41:22.185: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+
+** (waybar:95951): WARNING **: 10:41:22.185: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+
+** (waybar:95951): WARNING **: 10:41:22.185: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-04-15 10:41:22.243] [info] Bar configured (width: 2048, height: 30) for output: eDP-1
+[2025-04-15 10:41:22.244] [info] Bar configured (width: 2560, height: 30) for output: DP-2
+[2025-04-15 10:41:22.255] [info] Bar configured (width: 2560, height: 30) for output: DP-2
+
+** (waybar:95951): WARNING **: 10:41:22.407: Status Notifier Item with bus name ':1.123' and object path '/org/ayatana/NotificationItem/baidunetdisk1' is already registered
+
+** (waybar:95951): WARNING **: 10:41:22.407: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:95951): WARNING **: 10:41:22.407: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.048 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] 00:00:00.023 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 00:00:00.027 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.050 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.052 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.049 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.049 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.033 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.048 [ERROR] 00:00:00.049 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] 00:00:00.021 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.051 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.051 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.025 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.030 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.029 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.030 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] 00:00:00.022 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.029 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.030 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.048 [ERROR] 00:00:00.049 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] 00:00:00.026 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 00:00:00.026 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] 00:00:00.026 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.025 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] 00:00:00.023 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.024 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.114 [ERROR] 00:00:00.114 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.070 [ERROR] 00:00:00.070 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] 00:00:00.024 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.026 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.026 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.024 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 00:00:00.020 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.025 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.078 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.079 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.041 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.042 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.042 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.041 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.040 [ERROR] 00:00:00.040 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.061 00:00:00.062 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] 00:00:00.037 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.026 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.034 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.034 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.030 00:00:00.031 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.037 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.037 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.026 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+[2025-04-15 14:25:36.977] [warning] Failed to update properties: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/ayatana/NotificationItem/baidunetdisk1”
+[2025-04-15 14:25:36.977] [warning] Failed to update properties: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/ayatana/NotificationItem/baidunetdisk1”
+
+** (waybar:95951): WARNING **: 14:25:37.805: Status Notifier Item with bus name ':1.7' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:95951): WARNING **: 14:25:37.805: Status Notifier Item with bus name ':1.94' and object path '/org/ayatana/NotificationItem/ynote_desktop1' is already registered
+00:00:00.027 00:00:00.028 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] 00:00:00.024 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.021 00:00:00.020 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.026 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.034 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.036 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.029 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.026 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] 00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.032 [ERROR] 00:00:00.033 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.036 00:00:00.034 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.037 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.036 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] 00:00:00.024 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.033 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.031 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.022 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.056 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.055 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] 00:00:00.036 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.025 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.045 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.043 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.037 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 00:00:00.027 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.055 00:00:00.054 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.034 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.035 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.032 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.033 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.034 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.034 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.034 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.026 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.053 00:00:00.054 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] 00:00:00.026 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.040 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.039 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.053 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.054 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] 00:00:00.023 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.022 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.090 [ERROR] 00:00:00.091 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.034 00:00:00.033 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.024 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.038 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.037 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.108 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.108 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.033 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.033 [ERROR] 00:00:00.035 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.033 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.036 00:00:00.034 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.049 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.048 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.029 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.035 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.034 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.033 [ERROR] 00:00:00.034 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.032 00:00:00.033 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.032 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.031 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.034 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.033 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] 00:00:00.024 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.025 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.052 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.050 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] 00:00:00.026 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.051 [ERROR] 00:00:00.052 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.053 [ERROR] 00:00:00.054 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.030 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.033 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.025 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.028 00:00:00.029 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.026 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.029 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] 00:00:00.025 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] 00:00:00.023 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] 00:00:00.024 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] 00:00:00.023 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] 00:00:00.023 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.024 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 00:00:00.025 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.023 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.022 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path00:00:00.021 
+[ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 00:00:00.020 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 00:00:00.026 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 00:00:00.021 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 00:00:00.020 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.020 00:00:00.021 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.021 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.019 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.020 00:00:00.021 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.026 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.027 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 00:00:00.024 [ERROR] [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path[swaymsg/main.c:497] Unable to retrieve socket path
+
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.024 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] 00:00:00.024 [swaymsg/main.c:497] Unable to retrieve socket path[ERROR] 
+[swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.025 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path
+00:00:00.023 [ERROR] [swaymsg/main.c:497] Unable to retrieve socket path

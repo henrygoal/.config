@@ -1,0 +1,10 @@
+#!/bin/bash
+word=$(wl-paste --primary --type text/plain)
+arrays=($word)
+len=${#arrays[@]}
+if [ "${word}" != "" -a $len == 1 ];then
+    ydcv -n -t 3 "${word}" &>/dev/null
+    else
+    echo "xxx"
+fi
+
